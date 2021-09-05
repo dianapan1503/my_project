@@ -9,7 +9,7 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        { Console.WriteLine ("Hello");
+        { Console.WriteLine ("Вiтання англiйською мовою:\nHello\nHi\nGood morning\nGood afternoon\nGood evening");
             Console.ReadLine();
         }
     }
